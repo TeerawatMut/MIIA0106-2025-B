@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="teerawat/teerawat.vcxproj" />
+  <Project Path="teerawat2/teerawat2.vcxproj" />
+  <Project Path="teerawat3/teerawat3.vcxproj" />
+  <Project Path="teerawat4/teerawat4.vcxproj" />
+</Solution>
