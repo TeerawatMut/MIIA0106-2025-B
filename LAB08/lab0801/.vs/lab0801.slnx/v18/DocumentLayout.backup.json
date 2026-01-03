@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28ED05D8-5C74-42E7-9AF0-AF968AE0AEC3}|lab0807\\lab0807.vcxproj|C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0807\\lab0807.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28ED05D8-5C74-42E7-9AF0-AF968AE0AEC3}|lab0807\\lab0807.vcxproj|solutionrelative:lab0807\\lab0807.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C83FCDE-4F8E-4358-975E-9071F9132136}|lab0806\\lab0806.vcxproj|C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0806\\lab0806.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C83FCDE-4F8E-4358-975E-9071F9132136}|lab0806\\lab0806.vcxproj|solutionrelative:lab0806\\lab0806.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB956855-3FEF-4124-934C-4D69C0374BED}|lab0805\\lab0805.vcxproj|C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0805\\lab0805.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB956855-3FEF-4124-934C-4D69C0374BED}|lab0805\\lab0805.vcxproj|solutionrelative:lab0805\\lab0805.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6769E3DF-28A7-43D6-A486-38A794ED9BB2}|lab0804\\lab0804.vcxproj|C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0804\\lab0804.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6769E3DF-28A7-43D6-A486-38A794ED9BB2}|lab0804\\lab0804.vcxproj|solutionrelative:lab0804\\lab0804.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B786FE0-5ACE-4D2C-A9D4-810AFDE2F04F}|lab0803\\lab0803.vcxproj|C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0803\\lab0803.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B786FE0-5ACE-4D2C-A9D4-810AFDE2F04F}|lab0803\\lab0803.vcxproj|solutionrelative:lab0803\\lab0803.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278B7218-3DEE-4132-920E-D23BC7CE58C6}|lab0802\\lab0802.vcxproj|C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0802\\lab0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{278B7218-3DEE-4132-920E-D23BC7CE58C6}|lab0802\\lab0802.vcxproj|solutionrelative:lab0802\\lab0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F64AB99-DD72-4042-A80E-A2633EBEDF3B}|lab0801\\lab0801.vcxproj|C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0801\\lab0801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F64AB99-DD72-4042-A80E-A2633EBEDF3B}|lab0801\\lab0801.vcxproj|solutionrelative:lab0801\\lab0801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab0807.cpp",
+              "DocumentMoniker": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0807\\lab0807.cpp",
+              "RelativeDocumentMoniker": "lab0807\\lab0807.cpp",
+              "ToolTip": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0807\\lab0807.cpp",
+              "RelativeToolTip": "lab0807\\lab0807.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T19:44:02.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab0806.cpp",
+              "DocumentMoniker": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0806\\lab0806.cpp",
+              "RelativeDocumentMoniker": "lab0806\\lab0806.cpp",
+              "ToolTip": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0806\\lab0806.cpp",
+              "RelativeToolTip": "lab0806\\lab0806.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T19:40:49.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab0805.cpp",
+              "DocumentMoniker": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0805\\lab0805.cpp",
+              "RelativeDocumentMoniker": "lab0805\\lab0805.cpp",
+              "ToolTip": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0805\\lab0805.cpp",
+              "RelativeToolTip": "lab0805\\lab0805.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T19:36:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab0804.cpp",
+              "DocumentMoniker": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0804\\lab0804.cpp",
+              "RelativeDocumentMoniker": "lab0804\\lab0804.cpp",
+              "ToolTip": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0804\\lab0804.cpp",
+              "RelativeToolTip": "lab0804\\lab0804.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T19:27:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab0803.cpp",
+              "DocumentMoniker": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0803\\lab0803.cpp",
+              "RelativeDocumentMoniker": "lab0803\\lab0803.cpp",
+              "ToolTip": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0803\\lab0803.cpp",
+              "RelativeToolTip": "lab0803\\lab0803.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T19:19:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lab0802.cpp",
+              "DocumentMoniker": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0802\\lab0802.cpp",
+              "RelativeDocumentMoniker": "lab0802\\lab0802.cpp",
+              "ToolTip": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0802\\lab0802.cpp",
+              "RelativeToolTip": "lab0802\\lab0802.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T19:11:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab0801.cpp",
+              "DocumentMoniker": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0801\\lab0801.cpp",
+              "RelativeDocumentMoniker": "lab0801\\lab0801.cpp",
+              "ToolTip": "C:\\MIIA0106-2025-B\\MIIA0106-2025-B\\LAB08\\lab0801\\lab0801\\lab0801.cpp",
+              "RelativeToolTip": "lab0801\\lab0801.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-03T18:46:27.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
